@@ -1,0 +1,17 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body {
+  background: #fff;
+  font-family: 'Inter', sans-serif;
+}
+input {
+  border: none;
+  outline: none;
+  padding: 8px;
+}
+button:focus {
+  box-shadow: inset 0 0 0 2px #18a0fb;
+}
